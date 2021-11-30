@@ -1,3 +1,7 @@
+`flex-basis:` 630px; - размер флекс колонки
+
+
+
 font-weight helper
 * 100 - Extra Light or Ultra Light
 * 200 - Light or Thin
