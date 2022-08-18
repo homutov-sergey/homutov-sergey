@@ -1,4 +1,9 @@
-`flex-basis:` 630px; - размер флекс колонки
+`
+<?php echo $strip_bg ? "style='background-color:{$row_color}'" : ''; ?> - виводимо колір з адмінки
+
+
+
+flex-basis:` 630px; - размер флекс колонки
 
 
 
