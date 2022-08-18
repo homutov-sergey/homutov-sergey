@@ -1,9 +1,9 @@
-`
-<?php echo $strip_bg ? "style='background-color:{$row_color}'" : ''; ?> - виводимо колір з адмінки
+
+`<?php echo $strip_bg ? "style='background-color:{$row_color}'" : ''; ?> - виводимо колір з адмінки`
 
 
 
-flex-basis:` 630px; - размер флекс колонки
+`flex-basis:` 630px; - размер флекс колонки
 
 
 
