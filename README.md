@@ -1,4 +1,6 @@
 
+
+`<?php acf_link( get_field('about_button'), 'button-red'); ?>` - виводимо кнопку acf_Link
 `<?php echo $strip_bg ? "style='background-color:{$row_color}'" : ''; ?>` - виводимо колір з адмінки
 
 
