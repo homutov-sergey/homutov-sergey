@@ -1,5 +1,5 @@
 
-`<?php echo $strip_bg ? "style='background-color:{$row_color}'" : ''; ?> - виводимо колір з адмінки`
+`<?php echo $strip_bg ? "style='background-color:{$row_color}'" : ''; ?>` - виводимо колір з адмінки
 
 
 
